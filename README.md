@@ -17,6 +17,38 @@ It can be used to:
 
 </p>
 
+## Example:
+
+![image](https://user-images.githubusercontent.com/62385332/203846143-3bb69fc8-cf16-4053-bdc3-6ed3110f8f07.png)
+
+**Will print:**
+![image](https://user-images.githubusercontent.com/62385332/203847018-8df0b7d8-8421-4d24-8c24-2440c340bfd9.png)
+
+
+## Explanation:
+String display of the expression, and it's evaluation:
+
+![image](https://user-images.githubusercontent.com/62385332/203846547-cd9b3df7-8943-416d-9ed6-b9d3de836d31.png)
+
+
+Nandify:
+![image](https://user-images.githubusercontent.com/62385332/203846914-d30ae7d2-1283-46ba-b951-d9152e1153d5.png)
+
+
+Norify:
+![image](https://user-images.githubusercontent.com/62385332/203846889-24b54b83-371a-4862-ae42-5d3a636b30ac.png)
+
+
+Simplification:
+
+![image](https://user-images.githubusercontent.com/62385332/203846855-1df47eed-216b-4ee8-ac8a-1d9e47a71df1.png)
+
+
+
+
+
+
+
 
 
 ## Installation
