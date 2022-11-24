@@ -13,7 +13,7 @@ It can be used to:
 
 <p align="center">
 
-![](Images/uml.svg)
+![](images/uml.svg)
 
 </p>
 
