@@ -9,10 +9,12 @@ It can be used to:
 * Evaluate and simplify logical expressions.
 * Performs procedures on the expression such as nandify and norify.
   
-</p>
 ## UML Diagram of the project
+
 <p align="center">
+
 ![](Images/uml.svg)
+
 </p>
 
 
