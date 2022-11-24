@@ -20,7 +20,7 @@ public class ExpressionsTest {
         try {
             System.out.println(expression.evaluate(assign));
         } catch (Exception exception) {
-            System.out.println(exception);
+            System.out.println("Evaluation failed");
         }
         System.out.println(expression.nandify());
         System.out.println(expression.norify());

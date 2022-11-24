@@ -18,7 +18,7 @@ public class Not extends UnaryExpression {
      */
     @Override
     public String toString() {
-        return "~(" + super.getExpression1() + ")";
+        return "¬(" + super.getExpression1() + ")";
     }
 
     @Override

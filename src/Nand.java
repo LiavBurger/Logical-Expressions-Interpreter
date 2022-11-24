@@ -18,7 +18,7 @@ public class Nand extends BinaryExpression {
      */
     @Override
     public String toString() {
-        return "(" + super.getExpression1() + " A " + super.getExpression2() + ")";
+        return "(" + super.getExpression1() + " ↑ " + super.getExpression2() + ")";
     }
 
     @Override

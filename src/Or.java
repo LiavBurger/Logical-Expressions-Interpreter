@@ -16,7 +16,7 @@ public class  Or extends BinaryExpression {
      * @return this Or in string.
      */
     public String toString() {
-        return "(" + super.getExpression1() + " | " + super.getExpression2() + ")";
+        return "(" + super.getExpression1() + " ∨ " + super.getExpression2() + ")";
     }
 
     @Override

@@ -18,7 +18,7 @@ public class Xnor extends BinaryExpression {
      */
     @Override
     public String toString() {
-        return "(" + super.getExpression1() + " # " + super.getExpression2() + ")";
+        return "(" + super.getExpression1() + " ⨀ " + super.getExpression2() + ")";
     }
 
     @Override
